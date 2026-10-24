@@ -10,6 +10,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .ruff_cache/
+/kiem_thu/
 
 # Tệp cấu hình và tài nguyên chỉ dùng cho agent
 /.agents/
