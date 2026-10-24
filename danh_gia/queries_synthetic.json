@@ -1,0 +1,317 @@
+{
+  "queries": [
+    {
+      "id": "q_tay_ga_rich_scooter",
+      "k": 5,
+      "criteria": [
+        {
+          "key": "price",
+          "weight": 0.5,
+          "mode": "low"
+        },
+        {
+          "key": "vehicle_type",
+          "weight": 0.25,
+          "value": "Xe tay ga"
+        },
+        {
+          "key": "boot_capacity_l",
+          "weight": 0.25,
+          "value": 15
+        }
+      ],
+      "hard_filters": {
+        "max_price_vnd": 85000000
+      },
+      "relevant_vehicle_ids": [
+        "vehicle-0006",
+        "vehicle-0007",
+        "vehicle-0008",
+        "vehicle-0009",
+        "vehicle-0010",
+        "vehicle-0011",
+        "vehicle-0012",
+        "vehicle-0013",
+        "vehicle-0014",
+        "vehicle-0015",
+        "vehicle-0016",
+        "vehicle-0017",
+        "vehicle-0018",
+        "vehicle-0019",
+        "vehicle-0020",
+        "vehicle-0021",
+        "vehicle-0022",
+        "vehicle-0023",
+        "vehicle-0024",
+        "vehicle-0025",
+        "vehicle-0026",
+        "vehicle-0027",
+        "vehicle-0034",
+        "vehicle-0035",
+        "vehicle-0067",
+        "vehicle-0068",
+        "vehicle-0069",
+        "vehicle-0073",
+        "vehicle-0074",
+        "vehicle-0075",
+        "vehicle-0076",
+        "vehicle-0077",
+        "vehicle-0091",
+        "vehicle-0103",
+        "vehicle-0104",
+        "vehicle-0105",
+        "vehicle-0107",
+        "vehicle-0108",
+        "vehicle-0109",
+        "vehicle-0110",
+        "vehicle-0128",
+        "vehicle-0129",
+        "vehicle-0130",
+        "vehicle-0131",
+        "vehicle-0132",
+        "vehicle-0144",
+        "vehicle-0145",
+        "vehicle-0146",
+        "vehicle-0161",
+        "vehicle-0162"
+      ],
+      "label_basis": "Tập R ẢO (sinh theo quy tắc, không phải nhãn thực nghiệm): Xe Xăng, kiểu xe tay ga, cốp tối thiểu 15 lít, giá không quá 85 triệu. Áp dụng trực tiếp trên catalog CSV để đo hành vi harness Precision@K."
+    },
+    {
+      "id": "q_dien_power_full",
+      "k": 5,
+      "criteria": [
+        {
+          "key": "max_power_kw",
+          "weight": 0.6,
+          "value": 3.0
+        },
+        {
+          "key": "price",
+          "weight": 0.4,
+          "mode": "low"
+        }
+      ],
+      "hard_filters": {
+        "required_fuel": "Điện"
+      },
+      "relevant_vehicle_ids": [
+        "vehicle-0155",
+        "vehicle-0170",
+        "vehicle-0171",
+        "vehicle-0172",
+        "vehicle-0173",
+        "vehicle-0180",
+        "vehicle-0181",
+        "vehicle-0185",
+        "vehicle-0186",
+        "vehicle-0188",
+        "vehicle-0191",
+        "vehicle-0192",
+        "vehicle-0203",
+        "vehicle-0204",
+        "vehicle-0207",
+        "vehicle-0208",
+        "vehicle-0209",
+        "vehicle-0210",
+        "vehicle-0211",
+        "vehicle-0212",
+        "vehicle-0213",
+        "vehicle-0214",
+        "vehicle-0215",
+        "vehicle-0216",
+        "vehicle-0217",
+        "vehicle-0218",
+        "vehicle-0219",
+        "vehicle-0220",
+        "vehicle-0221",
+        "vehicle-0222",
+        "vehicle-0223",
+        "vehicle-0224",
+        "vehicle-0225",
+        "vehicle-0226"
+      ],
+      "label_basis": "Tập R ẢO (sinh theo quy tắc, không phải nhãn thực nghiệm): Xe Điện có công suất tối đa ít nhất 3 kW. Áp dụng trực tiếp trên catalog CSV để đo hành vi harness Precision@K."
+    },
+    {
+      "id": "q_price_band_30_45m",
+      "k": 3,
+      "criteria": [
+        {
+          "key": "price",
+          "weight": 1.0,
+          "value": 37500000,
+          "mode": "target"
+        }
+      ],
+      "hard_filters": {},
+      "relevant_vehicle_ids": [
+        "vehicle-0007",
+        "vehicle-0008",
+        "vehicle-0013",
+        "vehicle-0014",
+        "vehicle-0017",
+        "vehicle-0018",
+        "vehicle-0019",
+        "vehicle-0020",
+        "vehicle-0022",
+        "vehicle-0023",
+        "vehicle-0039",
+        "vehicle-0040",
+        "vehicle-0041",
+        "vehicle-0071",
+        "vehicle-0072",
+        "vehicle-0073",
+        "vehicle-0074",
+        "vehicle-0075",
+        "vehicle-0076",
+        "vehicle-0079",
+        "vehicle-0104",
+        "vehicle-0108",
+        "vehicle-0110",
+        "vehicle-0112",
+        "vehicle-0171",
+        "vehicle-0179",
+        "vehicle-0185",
+        "vehicle-0186",
+        "vehicle-0187",
+        "vehicle-0188",
+        "vehicle-0190",
+        "vehicle-0192",
+        "vehicle-0208",
+        "vehicle-0209",
+        "vehicle-0213",
+        "vehicle-0214",
+        "vehicle-0217",
+        "vehicle-0223",
+        "vehicle-0224"
+      ],
+      "label_basis": "Tập R ẢO (sinh theo quy tắc, không phải nhãn thực nghiệm): Giá từ 30 đến 45 triệu (bất kể loại xe). Áp dụng trực tiếp trên catalog CSV để đo hành vi harness Precision@K."
+    },
+    {
+      "id": "q_boot_min_30l",
+      "k": 5,
+      "criteria": [
+        {
+          "key": "boot_capacity_l",
+          "weight": 1.0,
+          "value": 30
+        }
+      ],
+      "hard_filters": {},
+      "relevant_vehicle_ids": [
+        "vehicle-0021",
+        "vehicle-0022",
+        "vehicle-0023",
+        "vehicle-0066",
+        "vehicle-0073",
+        "vehicle-0074",
+        "vehicle-0132",
+        "vehicle-0133",
+        "vehicle-0134",
+        "vehicle-0135",
+        "vehicle-0207",
+        "vehicle-0208",
+        "vehicle-0209",
+        "vehicle-0210",
+        "vehicle-0214",
+        "vehicle-0215",
+        "vehicle-0216",
+        "vehicle-0217",
+        "vehicle-0218",
+        "vehicle-0219",
+        "vehicle-0220",
+        "vehicle-0224",
+        "vehicle-0225",
+        "vehicle-0226"
+      ],
+      "label_basis": "Tập R ẢO (sinh theo quy tắc, không phải nhãn thực nghiệm): Cốp từ 30 lít trở lên (bất kể giá). Áp dụng trực tiếp trên catalog CSV để đo hành vi harness Precision@K."
+    },
+    {
+      "id": "q_re_city_under_20m",
+      "k": 5,
+      "criteria": [
+        {
+          "key": "price",
+          "weight": 1.0,
+          "mode": "low"
+        }
+      ],
+      "hard_filters": {
+        "max_price_vnd": 20000000
+      },
+      "relevant_vehicle_ids": [
+        "vehicle-0042",
+        "vehicle-0043",
+        "vehicle-0044",
+        "vehicle-0047",
+        "vehicle-0080",
+        "vehicle-0120",
+        "vehicle-0121",
+        "vehicle-0122",
+        "vehicle-0123",
+        "vehicle-0124",
+        "vehicle-0125",
+        "vehicle-0126",
+        "vehicle-0127",
+        "vehicle-0167",
+        "vehicle-0168",
+        "vehicle-0169",
+        "vehicle-0176",
+        "vehicle-0177",
+        "vehicle-0182",
+        "vehicle-0193",
+        "vehicle-0195",
+        "vehicle-0196",
+        "vehicle-0197",
+        "vehicle-0200",
+        "vehicle-0201",
+        "vehicle-0202",
+        "vehicle-0205",
+        "vehicle-0206"
+      ],
+      "label_basis": "Tập R ẢO (sinh theo quy tắc, không phải nhãn thực nghiệm): Giá không quá 20 triệu (bất kể loại xe). Áp dụng trực tiếp trên catalog CSV để đo hành vi harness Precision@K."
+    },
+    {
+      "id": "q_xe_so_gps",
+      "k": 5,
+      "criteria": [
+        {
+          "key": "price",
+          "weight": 0.45,
+          "mode": "low"
+        },
+        {
+          "key": "vehicle_type",
+          "weight": 0.35,
+          "value": "Xe số"
+        },
+        {
+          "key": "boot_capacity_l",
+          "weight": 0.2,
+          "value": 10
+        }
+      ],
+      "hard_filters": {
+        "required_fuel": "Xăng",
+        "max_price_vnd": 30000000
+      },
+      "relevant_vehicle_ids": [
+        "vehicle-0042",
+        "vehicle-0043",
+        "vehicle-0044",
+        "vehicle-0045",
+        "vehicle-0046",
+        "vehicle-0047",
+        "vehicle-0048",
+        "vehicle-0049",
+        "vehicle-0050",
+        "vehicle-0080",
+        "vehicle-0081",
+        "vehicle-0082",
+        "vehicle-0106"
+      ],
+      "label_basis": "Tập R ẢO (sinh theo quy tắc, không phải nhãn thực nghiệm): Xe Xăng, kiểu xe số, giá không quá 30 triệu. Áp dụng trực tiếp trên catalog CSV để đo hành vi harness Precision@K."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#1b6c80"
+backgroundColor = "#f9fbfc"
+secondaryBackgroundColor = "#f4f6f8"
+textColor = "#131416"
+font = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+baseFontSize = 16
+baseRadius = "6px"
+buttonRadius = "6px"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

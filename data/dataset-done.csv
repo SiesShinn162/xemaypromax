@@ -1,0 +1,226 @@
+Hãng,Model,Giá(VND),Công suất tối đa (Kw),Nhiên liệu,Kiểu xe,Dung tích cốp,Tình trạng,Năm sản xuất
+Honda,ADV350,166.190.000,21.5,Xăng,Tay ga,28 L,Mới,2024
+,SH350i (Bản thể thao),151.390.000,21.5,Xăng,Tay ga,28 L,Mới,2024
+,SH350i (Bản đặc biệt),152.390.000,21.5,Xăng,Tay ga,28 L,Mới,2024
+,SH350i (Bản cao cấp),151.390.000,21.5,Xăng,Tay ga,28 L,Mới,2024
+,Vario 160 (Bản thể thao),56.690.000,11.3,Xăng,Tay ga,18 L,Mới,2024
+,Vario 125 (Bản đặc biệt),41.931.818,8.2,Xăng,Tay ga,18 L,Mới,2024
+,Vario 125 (Bản street),42.895.637,8.2,Xăng,Tay ga,18 L,Mới,2024
+,Air Blade 160 (Bản thể thao),58.790.000,11.2,Xăng,Tay ga,23 L,Mới,2024
+,Air Blade 160 (Bản đặc biệt),58.290.000,11.2,Xăng,Tay ga,23 L,Mới,2024
+,Air Blade 160 (Bản tiêu chuẩn),57.090.000,11.2,Xăng,Tay ga,23 L,Mới,2024
+,Air Blade 125 (Bản thể thao),48.001.091,8.75,Xăng,Tay ga,23 L,Mới,2024
+,Air Blade 125 (Bản đặc biệt),43.582.909,8.75,Xăng,Tay ga,23 L,Mới,2024
+,Air Blade 125 (Bản tiêu chuẩn),42.404.727,8.75,Xăng,Tay ga,23 L,Mới,2024
+,Air Blade (Bản Spider-Man),48.099.273,8.75,Xăng,Tay ga,23 L,Mới,2024
+,Air Blade (Bản Venom),48.099.273,8.75,Xăng,Tay ga,23 L,Mới,2024
+,Vision (Bản thể thao),36.808.363,6.59,Xăng,Tay ga,18 L,Mới,2024
+,Vision (Bản đặc biệt),34.550.182,6.59,Xăng,Tay ga,18 L,Mới,2024
+,Vision (Bản cao cấp),33.175.637,6.59,Xăng,Tay ga,18 L,Mới,2024
+,Vision (Bản tiêu chuẩn),31.506.545,6.59,Xăng,Tay ga,18 L,Mới,2024
+,LEAD ABS (Bản đặc biệt),45.841.091,8.22,Xăng,Tay ga,37 L,Mới,2024
+,LEAD ABS (Bản cao cấp),41.913.818,8.22,Xăng,Tay ga,37 L,Mới,2024
+,LEAD ABS (Bản tiêu chuẩn),39.753.818,8.22,Xăng,Tay ga,37 L,Mới,2024
+,SH mode 125 (Bản thể thao),66.361.091,8.2,Xăng,Tay ga,18 L,Mới,2024
+,SH mode 125 (Bản đặc biệt),65.870.182,8.2,Xăng,Tay ga,18 L,Mới,2024
+,SH mode 125 (Bản cao cấp),64.692.000,8.2,Xăng,Tay ga,18 L,Mới,2024
+,SH mode 125 (Bản tiêu chuẩn),59.684.727,8.2,Xăng,Tay ga,18 L,Mới,2024
+,SH160i (Bản tiêu chuẩn),95.290.000,12.4,Xăng,Tay ga,28 L,Mới,2024
+,SH160i (Bản thể thao),104.490.000,12.4,Xăng,Tay ga,28 L,Mới,2024
+,SH160i (Bản đặc biệt),103.990.000,12.4,Xăng,Tay ga,28 L,Mới,2024
+,SH160i (Bản cao cấp),102.790.000,12.4,Xăng,Tay ga,28 L,Mới,2024
+,SH125i (Bản thể thao),85.702.909,9.6,Xăng,Tay ga,28 L,Mới,2024
+,SH125i (Bản đặc biệt),85.212.000,9.6,Xăng,Tay ga,28 L,Mới,2024
+,SH125i (Bản cao cấp),84.033.818,9.6,Xăng,Tay ga,28 L,Mới,2024
+,SH125i (Bản tiêu chuẩn),76.670.182,9.6,Xăng,Tay ga,28 L,Mới,2024
+,Super Cub C125 (Bản đặc biệt),88.353.818,6.87,Xăng,Xe số,0 L,Mới,2024
+,Super Cub C125 (Bản tiêu chuẩn),87.372.000,6.87,Xăng,Xe số,0 L,Mới,2024
+,CT125,85.997.455,6.74,Xăng,Xe số,0 L,Mới,2024
+,Future 125 FI (Bản đặc biệt),32.292.000,6.83,Xăng,Xe số,12 L,Mới,2024
+,Future 125 FI (Bản cao cấp),31.801.091,6.83,Xăng,Xe số,12 L,Mới,2024
+,Future 125 FI (Bản tiêu chuẩn),30.622.909,6.83,Xăng,Xe số,12 L,Mới,2024
+,Wave Alpha (Bản cổ điển),19.037.455,6.12,Xăng,Xe số,5 L,Mới,2024
+,Wave Alpha 110 (Bản đặc biệt),18.841.091,6.12,Xăng,Xe số,5 L,Mới,2024
+,Wave Alpha 110 (Bản tiêu chuẩn),17.957.455,6.12,Xăng,Xe số,5 L,Mới,2024
+,Blade (Bản thể thao),21.943.637,6.18,Xăng,Xe số,5 L,Mới,2024
+,Blade (Bản đặc biệt),20.470.909,6.18,Xăng,Xe số,5 L,Mới,2024
+,Blade (Bản tiêu chuẩn),18.900.000,6.18,Xăng,Xe số,5 L,Mới,2024
+,Wave RSX (Bản đặc biệt),23.701.091,6.46,Xăng,Xe số,5 L,Mới,2024
+,Wave RSX (Bản tiêu chuẩn),22.130.182,6.46,Xăng,Xe số,5 L,Mới,2024
+,Wave RSX (Bản thể thao),25.664.727,6.46,Xăng,Xe số,5 L,Mới,2024
+,CBR150R (Bản thể thao),73.790.000,12.6,Xăng,Xe côn tay,0 L,Mới,2024
+,CBR150R (Bản đặc biệt),73.290.000,12.6,Xăng,Xe côn tay,0 L,Mới,2024
+,CBR150R (Bản tiêu chuẩn),73.290.000,12.6,Xăng,Xe côn tay,0 L,Mới,2024
+,WINNER X (Bản thể thao),50.760.000,11.5,Xăng,Xe côn tay,0 L,Mới,2024
+,WINNER X (Bản đặc biệt),50.260.000,11.5,Xăng,Xe côn tay,0 L,Mới,2024
+,WINNER X (Bản tiêu chuẩn),46.360.000,11.5,Xăng,Xe côn tay,0 L,Mới,2024
+,CB150R The Streetster,105.500.000,11.0,Xăng,Xe côn tay,0 L,Mới,2023
+,CBR500R,192.990.000,35.0,Xăng,Xe côn tay,0 L,Mới,2024
+,CB500 Hornet,184.990.000,35.0,Xăng,Xe côn tay,0 L,Mới,2024
+,NX500,194.290.000,35.0,Xăng,Xe côn tay,0 L,Mới,2024
+,Rebel 500,181.300.000,34.0,Xăng,Xe côn tay,0 L,Mới,2024
+,CB650R,261.300.000,70.0,Xăng,Xe côn tay,0 L,Mới,2024
+,CBR650R,269.990.000,70.0,Xăng,Xe côn tay,0 L,Mới,2024
+,Rebel 1100,449.500.000,64.0,Xăng,Xe côn tay,0 L,Mới,2023
+,Africa Twin,590.900.000,75.0,Xăng,Xe côn tay,0 L,Mới,2023
+,Gold Wing,1.231.000.000,93.0,Xăng,Xe côn tay,36 L,Mới,2024
+Yamaha,Grande (Bản tiêu chuẩn),46.000.000,6.05,Xăng,Tay ga,27 L,Mới,2024
+,Grande (Bản đặc biệt),50.500.000,6.05,Xăng,Tay ga,27 L,Mới,2024
+,Grande (Bản giới hạn),51.200.000,6.05,Xăng,Tay ga,27 L,Mới,2024
+,Janus 125 (Bản tiêu chuẩn),28.571.000,7.0,Xăng,Tay ga,14 L,Mới,2024
+,Janus 125 (Bản đặc biệt),32.204.000,7.0,Xăng,Tay ga,14 L,Mới,2024
+,Janus 125 (Bản giới hạn),32.695.000,7.0,Xăng,Tay ga,14 L,Mới,2024
+,Latte (Bản tiêu chuẩn),38.095.000,6.05,Xăng,Tay ga,37 L,Mới,2024
+,Latte (Bản giới hạn),38.585.000,6.05,Xăng,Tay ga,37 L,Mới,2024
+,FreeGo (Bản tiêu chuẩn),30.142.000,7.0,Xăng,Tay ga,25 L,Mới,2024
+,FreeGo S (Bản đặc biệt),34.069.000,7.0,Xăng,Tay ga,25 L,Mới,2024
+,NVX 155 VVA,55.000.000,11.3,Xăng,Tay ga,25 L,Mới,2024
+,LEXi 155 VVA,48.500.000,11.3,Xăng,Tay ga,12 L,Mới,2024
+,PG-1,30.437.000,6.6,Xăng,Xe số,0 L,Mới,2024
+,Sirius (Phanh cơ),18.949.000,6.4,Xăng,Xe số,9 L,Mới,2024
+,Sirius FI (Phanh đĩa),22.385.000,6.4,Xăng,Xe số,9 L,Mới,2024
+,Jupiter Finn (Bản tiêu chuẩn),27.687.000,6.6,Xăng,Xe số,9 L,Mới,2024
+,Exciter 155 VVA (Bản tiêu chuẩn),47.600.000,13.2,Xăng,Xe côn tay,0 L,Mới,2024
+,Exciter 155 VVA (Bản cao cấp ABS),54.000.000,13.2,Xăng,Xe côn tay,0 L,Mới,2024
+,YZF-R15,78.000.000,14.2,Xăng,Xe côn tay,0 L,Mới,2024
+,NEO'S (Xe máy điện),49.091.000,2.3,Điện,Xe điện,27 L,Mới,2023
+Suzuki,Raider R150 (Bản tiêu chuẩn),45.990.000,13.6,Xăng,Xe côn tay,0 L,Mới,2024
+,Raider R150 (Bản đặc biệt),51.190.000,13.6,Xăng,Xe côn tay,0 L,Mới,2024
+,Satria F150 (Bản tiêu chuẩn),48.490.000,13.6,Xăng,Xe côn tay,0 L,Mới,2024
+,Satria F150 (Bản đặc biệt),53.490.000,13.6,Xăng,Xe côn tay,0 L,Mới,2024
+,Burgman Street 125,48.600.000,6.4,Xăng,Tay ga,"22,5 L",Mới,2023
+,V-Strom 250SX,132.900.000,19.5,Xăng,Xe côn tay,0 L,Mới,2024
+,Gixxer 250,110.900.000,19.5,Xăng,Xe côn tay,0 L,Mới,2023
+,Gixxer SF250,115.900.000,19.5,Xăng,Xe côn tay,0 L,Mới,2023
+,GSX-R150,71.990.000,14.1,Xăng,Xe côn tay,0 L,Mới,2023
+,GSX-S150,64.400.000,14.1,Xăng,Xe côn tay,0 L,Mới,2023
+,GD110,27.990.000,6.2,Xăng,Xe côn tay,0 L,Mới,2023
+,GSX 150 Bandit,68.900.000,14.1,Xăng,Xe côn tay,0 L,Mới,2023
+,Hayabusa,568.900.000,140.0,Xăng,Xe côn tay,0 L,Mới,2024
+,V-Strom 1050,419.900.000,79.0,Xăng,Xe côn tay,0 L,Mới,2023
+,GSX-S1000,399.900.000,110.0,Xăng,Xe côn tay,0 L,Mới,2023
+,Katana,415.000.000,110.0,Xăng,Xe côn tay,0 L,Mới,2023
+,Address 110,28.290.000,6.7,Xăng,Tay ga,20 L,Mới,2022
+,Impulse 125,31.990.000,6.9,Xăng,Tay ga,18 L,Mới,2022
+,Hayate 125,25.200.000,6.9,Xăng,Tay ga,18 L,Mới,2022
+,Viva 115 FI,22.990.000,6.9,Xăng,Xe số,5 L,Mới,2022
+SYM,Naga 150,49.500.000,10.6,Xăng,Tay ga,28 L,Mới,2024
+,Tuscany 150,45.000.000,8.5,Xăng,Tay ga,27 L,Mới,2023
+,Priti 125,29.500.000,7.1,Xăng,Tay ga,"22,5 L",Mới,2024
+,New Attila 125,33.700.000,7.7,Xăng,Tay ga,27 L,Mới,2023
+,Star SR 125 EFI,28.700.000,9.1,Xăng,Xe côn tay,5 L,Mới,2023
+,Husky Classic 125,33.900.000,7.5,Xăng,Xe côn tay,0 L,Mới,2023
+,Priti 50,26.700.000,2.35,Xăng,Tay ga (50cc),"22,5 L",Mới,2024
+,Shark EFI 50,26.500.000,2.45,Xăng,Tay ga (50cc),15 L,Mới,2024
+,Shark 50,24.500.000,2.45,Xăng,Tay ga (50cc),15 L,Mới,2023
+,Attila 50,26.200.000,2.45,Xăng,Tay ga (50cc),18 L,Mới,2023
+,Passing 50,24.200.000,2.45,Xăng,Tay ga (50cc),12 L,Mới,2023
+,Elite 50,23.100.000,2.7,Xăng,Tay ga (50cc),15 L,Mới,2023
+,Elite 50 (Bản đặc biệt),23.600.000,2.7,Xăng,Tay ga (50cc),15 L,Mới,2023
+,Galaxy 50 (Bánh mâm),18.600.000,1.9,Xăng,Xe số (50cc),5 L,Mới,2023
+,Galaxy 50 (Bánh căm),18.000.000,1.9,Xăng,Xe số (50cc),5 L,Mới,2023
+,Angela 50 (Sơn mờ),18.200.000,1.84,Xăng,Xe số (50cc),5 L,Mới,2023
+,Angela 50 (Tiêu chuẩn),17.900.000,1.84,Xăng,Xe số (50cc),5 L,Mới,2023
+,Elegant Sport 50 (Bánh mâm),17.300.000,1.7,Xăng,Xe số (50cc),5 L,Mới,2023
+,Elegant Sport 50 (Bánh căm),16.700.000,1.7,Xăng,Xe số (50cc),5 L,Mới,2023
+,Elegant 50 (Bánh mâm),17.300.000,1.7,Xăng,Xe số (50cc),5 L,Mới,2022
+,Elegant 50 (Bánh căm),16.700.000,1.7,Xăng,Xe số (50cc),5 L,Mới,2022
+Piaggio,Liberty 125 (Bản tiêu chuẩn),57.500.000,7.6,Xăng,Tay ga,17 L,Mới,2024
+,Liberty 125 S (Bản thể thao),57.900.000,7.6,Xăng,Tay ga,17 L,Mới,2024
+,Liberty 125 Z (Bản đặc biệt),59.300.000,7.6,Xăng,Tay ga,17 L,Mới,2024
+,Liberty One 125,48.600.000,7.6,Xăng,Tay ga,17 L,Mới,2023
+,Medley S 125,80.000.000,11.0,Xăng,Tay ga,36 L,Mới,2024
+,Medley S 150,96.800.000,12.4,Xăng,Tay ga,36 L,Mới,2024
+,Beverly S 400,235.000.000,26.0,Xăng,Tay ga,36 L,Mới,2023
+,MP3 400 Sport,340.000.000,26.0,Xăng,Tay ga,36 L,Mới,2023
+Vespa,Vespa Sprint 125,85.900.000,7.9,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Sprint S 125,88.200.000,7.9,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Sprint S 150,104.000.000,9.5,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Sprint Tech 180,127.000.000,12.2,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Sprint Officina 8 125,92.200.000,7.9,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Sprint Officina 8 150,110.000.000,9.5,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Sprint 80th 125,106.500.000,7.9,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Sprint 80th 180,121.500.000,12.2,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Primavera 125,79.200.000,7.9,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Primavera S 125,82.500.000,7.9,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Primavera RED 125,84.200.000,7.9,Xăng,Tay ga,17 L,Mới,2024
+,Vespa Primavera Color Vibe 125,86.600.000,7.9,Xăng,Tay ga,17 L,Mới,2024
+,Vespa GTS Classic 150,126.500.000,11.5,Xăng,Tay ga,28 L,Mới,2024
+,Vespa GTS Super Sport 150,137.000.000,11.5,Xăng,Tay ga,28 L,Mới,2024
+,Vespa GTS Super Tech 300,158.600.000,17.5,Xăng,Tay ga,28 L,Mới,2024
+,Vespa GTS 80th 300,169.000.000,17.5,Xăng,Tay ga,28 L,Mới,2024
+,Vespa GTV 300,159.800.000,17.5,Xăng,Tay ga,28 L,Mới,2024
+,Vespa 946 Snake,700.000.000,8.5,Xăng,Tay ga,0 L,Mới,2024
+,Vespa 946 Dragon,680.000.000,8.5,Xăng,Tay ga,0 L,Mới,2024
+,Vespa Elettrica,279.000.000,4.0,Điện,Xe điện,18 L,Mới,2023
+,Vespa Primavera 50,65.000.000,2.4,Xăng,Tay ga (50cc),17 L,Mới,2023
+,Vespa Sprint 50,67.000.000,2.4,Xăng,Tay ga (50cc),17 L,Mới,2023
+,Vespa GTS Super 125,93.900.000,9.0,Xăng,Tay ga,28 L,Mới,2023
+,Vespa GTS Touring 300,131.000.000,17.5,Xăng,Tay ga,28 L,Mới,2023
+,Vespa Sei Giorni II 300,139.400.000,17.5,Xăng,Tay ga,28 L,Mới,2023
+,Vespa LX 125,67.900.000,7.6,Xăng,Tay ga,15 L,Mới,2022
+,Vespa S 125,69.800.000,7.6,Xăng,Tay ga,15 L,Mới,2022
+,Vespa Primavera Pic Nic 125,88.000.000,7.9,Xăng,Tay ga,17 L,Mới,2023
+,Vespa Sprint Justin Bieber,115.000.000,7.9,Xăng,Tay ga,17 L,Mới,2023
+,Vespa 946 Christian Dior,700.000.000,8.5,Xăng,Tay ga,0 L,Mới,2022
+,Vespa 946 10° Anniversario,710.000.000,8.5,Xăng,Tay ga,0 L,Mới,2023
+VinFast,VinFast Evo Lite Neo,16.900.000,1.2,Điện,Xe điện,22 L,Mới,2024
+,VinFast Evo200,18.000.000,2.5,Điện,Xe điện,22 L,Mới,2024
+,VinFast Evo200 Lite,18.000.000,1.5,Điện,Xe điện,22 L,Mới,2024
+,VinFast Feliz S,27.000.000,3.0,Điện,Xe điện,25 L,Mới,2024
+,VinFast Klara S (2022),35.000.000,3.0,Điện,Xe điện,23 L,Mới,2024
+,VinFast Vento S,50.000.000,5.2,Điện,Xe điện,17 L,Mới,2024
+,VinFast Theon S,63.000.000,7.1,Điện,Xe điện,24 L,Mới,2024
+,VinFast DrgnFly,45.900.000,0.75,Điện,Xe điện,0 L,Mới,2024
+,VinFast Klara A2,26.900.000,1.2,Điện,Xe điện,20 L,Mới,2022
+,VinFast Ludo,12.900.000,0.5,Điện,Xe điện,0 L,Mới,2022
+,VinFast Impes,14.900.000,1.2,Điện,Xe điện,10 L,Mới,2022
+,VinFast Feliz,24.900.000,2.25,Điện,Xe điện,20 L,Mới,2022
+,VinFast Klara S (2021),39.900.000,1.7,Điện,Xe điện,17 L,Mới,2022
+,VinFast Vento,56.000.000,4.0,Điện,Xe điện,17 L,Mới,2022
+,VinFast Theon,63.900.000,7.1,Điện,Xe điện,17 L,Mới,2022
+,VinFast Tempest,19.350.000,1.6,Điện,Xe điện,15 L,Mới,2022
+,VinFast Evo Grand,22.500.000,2.5,Điện,Xe điện,22 L,Mới,2024
+,VinFast Evo Grand II,25.900.000,2.5,Điện,Xe điện,22 L,Mới,2024
+,VinFast Vero X,34.900.000,3.2,Điện,Xe điện,25 L,Mới,2024
+,VinFast Kyo,30.000.000,3.0,Điện,Xe điện,20 L,Mới,2024
+Yadea,Yadea Voltguard V002 U50,38.990.000,2.8,Điện,Xe điện,20 L,Mới,2024
+,Yadea Voltguard U80,38.990.000,3.0,Điện,Xe điện,20 L,Mới,2024
+,Yadea Voltguard P-L,29.490.000,2.8,Điện,Xe điện,20 L,Mới,2024
+,Yadea Velax P,33.990.000,2.5,Điện,Xe điện,25 L,Mới,2024
+,Yadea Velax U,52.990.000,3.5,Điện,Xe điện,25 L,Mới,2024
+,Yadea Vora,42.990.000,3.2,Điện,Xe điện,22 L,Mới,2024
+,Yadea Omee,15.990.000,1.0,Điện,Xe điện,15 L,Mới,2024
+,Yadea Osta,28.990.000,2.0,Điện,Xe điện,20 L,Mới,2024
+,Yadea Ova,18.190.000,1.2,Điện,Xe điện,18 L,Mới,2024
+,Yadea iCandy,14.790.000,0.8,Điện,Xe điện,10 L,Mới,2024
+,Yadea Xbull H,13.990.000,1.0,Điện,Xe điện,0 L,Mới,2024
+,Yadea Oris H,27.490.000,2.2,Điện,Xe điện,22 L,Mới,2024
+,Yadea BuyE,21.990.000,1.2,Điện,Xe điện,20 L,Mới,2023
+,Yadea Xmen Neo,17.590.000,1.0,Điện,Xe điện,12 L,Mới,2023
+,Yadea E3,15.990.000,1.2,Điện,Xe điện,20 L,Mới,2023
+,Yadea U-Like,17.990.000,1.2,Điện,Xe điện,22 L,Mới,2023
+,Yadea Fierce,55.000.000,10.0,Điện,Xe điện,25 L,Mới,2023
+,Yadea Keeness,65.000.000,10.0,Điện,Xe điện,0 L,Mới,2023
+,Yadea Odora S1,18.490.000,1.5,Điện,Xe điện,18 L,Mới,2023
+,Yadea M6i,17.990.000,1.2,Điện,Xe điện,18 L,Mới,2023
+Dat Bike,Dat Bike Quantum S1,49.900.000,7.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Quantum S2,42.900.000,6.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Quantum S3,34.900.000,6.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Quantum,49.900.000,7.0,Điện,Xe điện,41 L,Mới,2023
+,Dat Bike Weaver++,65.900.000,7.0,Điện,Xe điện,0 L,Mới,2023
+,Dat Bike Weaver 200,54.900.000,6.0,Điện,Xe điện,0 L,Mới,2022
+,Dat Bike Weaver,39.900.000,5.0,Điện,Xe điện,0 L,Mới,2022
+,Dat Bike ERA,38.900.000,6.0,Điện,Xe điện,50 L,Mới,2024
+,Dat Bike Quantum S1 (Bản Pin lớn),54.900.000,7.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Quantum S2 (Bản Pin lớn),47.900.000,6.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Quantum S3 (Bản Tiêu chuẩn),34.900.000,6.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Quantum Đen nhám,49.900.000,7.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Quantum Trắng ngọc trai,49.900.000,7.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Quantum Cam năng động,49.900.000,7.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Weaver++ Thể thao,65.900.000,7.0,Điện,Xe điện,0 L,Mới,2023
+,Dat Bike Weaver 200 Tiêu chuẩn,54.900.000,6.0,Điện,Xe điện,0 L,Mới,2022
+,Dat Bike Weaver Classic,39.900.000,5.0,Điện,Xe điện,0 L,Mới,2022
+,Dat Bike ERA Cân đời thực,38.900.000,6.0,Điện,Xe điện,50 L,Mới,2024
+,Dat Bike Quantum Touring Edition,56.900.000,7.0,Điện,Xe điện,41 L,Mới,2024
+,Dat Bike Quantum Commuter Edition,45.900.000,6.0,Điện,Xe điện,41 L,Mới,2024

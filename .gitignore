@@ -1,0 +1,29 @@
+# Khóa và cấu hình cục bộ
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Môi trường và tệp sinh khi chạy kiểm thử
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Tệp cấu hình và tài nguyên chỉ dùng cho agent
+/.agents/
+/.opencode/
+/.taste-skill/
+/AGENTS.md
+/skills-lock.json
+
+# Tài liệu và đầu ra sinh tự động
+/docs/
+/graphify-out/
+~$*
+
+# Chỉ đưa harness Precision@K và tập R ảo trong danh_gia lên Git
+/danh_gia/*
+!/danh_gia/do_chinh_xac_k.py
+!/danh_gia/queries_synthetic.json
